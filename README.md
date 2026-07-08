@@ -2,22 +2,22 @@
 
 Um projeto simples de **tabela de preços responsiva** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar uma **pricing table moderna**, ideal para sites de serviços e planos.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Tabela de preços responsiva
 - Layout organizado em colunas
 - Design moderno e limpo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
